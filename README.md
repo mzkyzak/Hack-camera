@@ -14,4 +14,5 @@
     chmod +x hack_camera.sh
     bash hack_camera.sh
 
-itu hanya modifikasi aja
+itu file hanya modifikasi aja,
+bacalah code shell tentang??
