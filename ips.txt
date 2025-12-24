@@ -1,0 +1,384 @@
+IP                   : 110.138.81.186
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 110.138.81.186
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 110.138.81.186
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 110.138.81.186
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 149.154.161.246
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : London, United Kingdom, Europe
+GeoLocation(lat, lon): 51.5073509, -0.1277583
+Currency             : British Pound Sterling
+IP                   : 149.154.161.212
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : London, United Kingdom, Europe
+GeoLocation(lat, lon): 51.5073509, -0.1277583
+Currency             : British Pound Sterling
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 182.3.43.35
+IP Type              : IPv4
+User OS              : Android
+Version              : Android
+Browser              : Handheld Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 182.3.43.35
+IP Type              : IPv4
+User OS              : Android
+Version              : Android
+Browser              : Handheld Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
+IP                   : 110.138.95.221
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Bekasi, Indonesia, Asia
+GeoLocation(lat, lon): -6.2474466, 107.1484521
+Currency             : Indonesian Rupiah
