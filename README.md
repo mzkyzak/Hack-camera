@@ -13,3 +13,5 @@
     cd Hack-camera
     chmod +x hack_camera.sh
     bash hack_camera.sh
+
+itu hanya modifikasi aja
