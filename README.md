@@ -3,7 +3,7 @@
     CARA PASANG LINUX/TERMUX
 
     wajib install git -y
-    wajib install php
+    wajib install php -Y
     wajib install curl -y
     wajib install wget -y
     clone https://github.com/mzkyzak/Hack-camera.git
